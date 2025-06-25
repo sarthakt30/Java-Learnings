@@ -25,7 +25,7 @@ public class Switch {
             System.out.println("A creamy green fruit");
             default:
             System.out.println("Please enter a valid fruit name");
-        }
+        }    
 
     }
     
